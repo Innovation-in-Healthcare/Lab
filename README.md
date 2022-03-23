@@ -2,23 +2,9 @@
 ## Vision of Innovation in Healthcare Lab
 This Lab aims to develop new signal processing methods and AI model for monitoring human health in daily living conditions. We analyse different types of physiological time-series such as EEG, ECG, PPG for human activity recognition, stress detection, signal quality assessment, sleeping stage analysis applications.
 
-## ✉️ Find us on:
 
 
-<p>Publications (<b>20</b>) last scraped for <a href="https://scholar.google.co.uk/citations?user=JicYPdAAAAAJ&hl=en">Chandan Karmakar</a></p>
-<div class="card">
-    <div class="card-publication">
-        <div class="card-body card-body-left">
-            <h4><a href="https://scholar.google.com.au/citations?user=Y9UB58QAAAAJ&hl=en>Learning internal representations by error-propagation</a></h4>
-            <p style="font-style: italic;">by DE Rumelhart, GE Hinton, RJ Williams</p>
-            <p><b>Parallel Distributed Processing: Explorations in the Microstructure of …</b></p>
-        </div>
-    </div>
-    <div class="card-footer">
-        <small class="text-muted">Published in <b>1986</b> | 
-        <a href="https://scholar.google.com.au/citations?user=Y9UB58QAAAAJ&hl=en>Citations: <b>62260</b></a></small>
-    </div>
-</div>
+## <a href="https://scholar.google.com.au/citations?user=Y9UB58QAAAAJ&hl=en">List of publications </a>
 
 ## 🧰 Languages and Tools:
 <p align="center">
