@@ -1,10 +1,4 @@
 
-<h1 align="center">Dev Dictionary</h1>
-<p align="center">Find information on any technology</p>
-<kbd><img src="https://cloud.githubusercontent.com/assets/4705188/20508600/ac62b414-b030-11e6-9dfe-691a6a3250fd.png" alt="image">
-</kbd>
-
-
 # Innovation in Healthcare (Deakin University)
 ## Vision of Innovation in Healthcare Lab
 This Lab aims to develop new signal processing methods and AI model for monitoring human health in daily living conditions. We analyse different types of physiological time-series such as EEG, ECG, PPG for human activity recognition, stress detection, signal quality assessment, sleeping stage analysis applications.
