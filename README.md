@@ -5,9 +5,20 @@ This Lab aims to develop new signal processing methods and AI model for monitori
 ## ✉️ Find us on:
 
 
-<p align="center">
- <a href="https://scholar.google.com.au/citations?user=Y9UB58QAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"> <img src="https://icons8.com/icons/set/google-scholar-logo" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
-</p>
+<p>Publications (<b>20</b>) last scraped for <a href="https://scholar.google.co.uk/citations?user=JicYPdAAAAAJ&hl=en">Chandan Karmakar</a></p>
+<div class="card">
+    <div class="card-publication">
+        <div class="card-body card-body-left">
+            <h4><a href="https://scholar.google.com.au/citations?user=Y9UB58QAAAAJ&hl=en>Learning internal representations by error-propagation</a></h4>
+            <p style="font-style: italic;">by DE Rumelhart, GE Hinton, RJ Williams</p>
+            <p><b>Parallel Distributed Processing: Explorations in the Microstructure of …</b></p>
+        </div>
+    </div>
+    <div class="card-footer">
+        <small class="text-muted">Published in <b>1986</b> | 
+        <a href="https://scholar.google.com.au/citations?user=Y9UB58QAAAAJ&hl=en>Citations: <b>62260</b></a></small>
+    </div>
+</div>
 
 ## 🧰 Languages and Tools:
 <p align="center">
